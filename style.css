@@ -19,38 +19,54 @@ a{
 
 
 .box {
-    background-color:blue;
+    background-color: black;
     height: 15vh;
     width: 100%;
     
     
 }
-a
-{
-    margin-left: 25px;
-    font-family: sans-serif;
-    font-size: 25px;
-}
+
 
 
 .nav-links{
-    margin-top: 35px;
-    margin-left: 550px;
+    margin-top: 40px;
+    margin-left: 120px;
     display: inline-flex;
     text-align: center;
     justify-content: space-evenly;
-    width: 35%;
+    width: 40%;
     font-size: 25px;
 }
 
-i{
-    background-color:black;
-    color:green;
-    padding-bottom: 2px;
-    margin-left: 5px;
+
+.button{
+    margin-left: 120px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 25px;
+    border-radius: 5px;
+    background-color: white;
+    color:blue
+}
+
+ .color{
+    background-color: orangered;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 25px;
+    border-radius: 5px;
+    margin-top: 5px;
 
  }
 
- 
-
-
+ i{
+    background-color:bisque;
+    color:blue;
+    margin-left:40px;
+    margin-top: 24px;
+    padding-bottom: 2px;
+ }
